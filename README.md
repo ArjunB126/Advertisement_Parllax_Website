@@ -1,6 +1,6 @@
 # Advertisement_Parllax_Website
 
-# Access the website here : https://arjunb126.github.io/Advertisement_Parllax_Website/index.html
+# Access the website here : https://arjunb126.github.io/Advertisement_Parllax_Website/
 
 # ADVENTURE_ADVERTISEMENT_WEBSITE 
 Are you ready to embark on the journey of a lifetime? Look no further, because Adventure Seeker's Paradise is your ultimate gateway to the world of excitement, exploration, and adrenaline-pumping experiences!
